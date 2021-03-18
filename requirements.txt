@@ -2,5 +2,3 @@ colorama
 phonenumbers
 sys
 signal
-
-
