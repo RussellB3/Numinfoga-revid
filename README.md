@@ -1,5 +1,5 @@
 # Numinfoga
-A tool used for PhoneNumber Information Gathering
+A tool used for PhoneNumber Information Gathering.It has been designed with the help of a Python Module.
 
 
 ABOUT:-This Tool is written using a module of python named as Phonenumbers module . This tool is useful for tracking of mobile numbers ....
